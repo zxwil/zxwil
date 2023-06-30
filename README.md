@@ -23,7 +23,7 @@
  ##
 
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/zxwilma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/EJGb3dY9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:wilma.barreto5@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,10 +33,13 @@
   
 ##
 
+<div align="center">
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=zxwil&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zxwil&theme=neon&hide_border=false"  width="400px" />
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=zxwil&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxwil&theme=neon&hide_border=false"  width="400px" />
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=zxwil&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=zxwil&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
  
 
  
