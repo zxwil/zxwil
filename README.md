@@ -1,11 +1,19 @@
 
 <div align="center">
 <h1> Hi! 🦋 </h1>
-<p> Meu nome é Wilma Barreto, mas gosto que me chamem de "Wil". Estou cursando engenharia da computação na faculdade Descomplica. Sou apaixonada por tecnologia, games, series e livros. </p>
+<p> Meu nome é Wilma Barreto, mas gosto que me chamem de "Wil". Estou cursando engenharia da computação na faculdade Descomplica. Sou apaixonada por tecnologia, games, series e livros.</p>
+</div>
+
+<div aligh="left"> 
+  
+- 💻 Tenho conhecimento em HTML, CSS e JavaScript.
+- 📚 Estou sempre buscando aprender novas tecnologias.
+- 🎓 Estou cursando engenharia da computação na faculdade Descomplica, 1° semestre e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
+  
 <div>
   
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
