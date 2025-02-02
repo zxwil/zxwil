@@ -8,7 +8,7 @@
   
 - 💻 Tenho conhecimento em HTML, CSS e JavaScript.
 - 📚 Estou sempre buscando aprender novas tecnologias.
-- 🎓 Estou cursando engenharia da computação na faculdade Descomplica, 1° semestre e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
+- 🎓 Estou cursando engenharia da computação na faculdade Descomplica, 4° semestre e estou constantemente buscando aprimorar minhas habilidades e conhecimentos.
   
 <div>
   
